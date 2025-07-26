@@ -17,6 +17,7 @@ A suite of **free, no-signup-required** web tools for network analysis, privacy 
 
 ### Prerequisites
 - Modern browser (Chrome, Firefox, Edge)
+- Node.js v18+ (for development)
 
 ### Installation
 ```bash
@@ -24,3 +25,44 @@ git clone https://github.com/yourusername/theipchecker.git
 cd theipchecker
 npm install
 npm run dev
+==============================================
+🌍 Live Demo
+Access all tools instantly:
+👉 https://www.theipchecker.com
+
+🛡️ Privacy Focus
+No user tracking
+
+Zero data storage (all processing happens client-side)
+
+Ad-free experience
+
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript (ES6+)
+
+Hosting: Netlify/Vercel
+
+APIs: ipify, ipapi.co
+
+Build: Webpack (for production)
+
+🤝 Contributing
+We welcome contributions! Please:
+
+Fork the repository
+
+Create a feature branch (git checkout -b feature/your-feature)
+
+Commit changes (git commit -m 'Add some feature')
+
+Push to branch (git push origin feature/your-feature)
+
+Open a Pull Request
+
+📜 License
+MIT License - See LICENSE for details.
+
+📬 Contact
+Report issues: GitHub Issues
+
+Twitter: @TheIPChecker
